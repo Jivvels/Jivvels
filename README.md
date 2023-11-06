@@ -1,16 +1,24 @@
-### Hi there 👋
+# Mijn Geweldige To-Do App
 
-<!--
-**Jivvels/Jivvels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Een eenvoudige, gebruiksvriendelijke to-do app waarmee je je taken kunt beheren en organiseren.
 
-Here are some ideas to get you started:
+## Inhoudsopgave
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Inleiding](#inleiding)
+- [Installatie](#installatie)
+- [Gebruik](#gebruik)
+- [Bijdragen](#bijdragen)
+- [Licentie](#licentie)
+
+## Inleiding
+
+Deze to-do app is ontworpen om je te helpen bij het organiseren van je dagelijkse taken en projecten. Met een intuïtieve gebruikersinterface kun je eenvoudig taken toevoegen, bewerken, markeren als voltooid en verwijderen.
+
+## Installatie
+
+Om de to-do app lokaal te installeren en uit te voeren, volg je deze stappen:
+
+1. Kloon de repository:
+
+```bash
+git clone https://github.com/jouw-gebruikersnaam/mijn-geweldige-to-do-app.git
